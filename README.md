@@ -1,5 +1,4 @@
-# mysore_exercises
-PHP Mysore Uppgifter 🧘‍♀️🧘‍♂️
+# PHP Mysore Uppgifter 🧘‍♀️🧘‍♂️
 
 Inom astangha yoga är mysore att man gör en serie av övningar i sitt egna tempo. Gör alltså övningarna i den ordningen dom är skrivna, en efter en. När du är klar kan du börja om från 1 och se om du lärt dig något sen förra gången 🙂
 
