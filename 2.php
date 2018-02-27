@@ -8,10 +8,10 @@
 </head>
 <body>
 <?php
-make_heading('<h1>', 'Hej');
+make_heading('h1', 'Hej');
 
 function make_heading($heading, $text) {
-    echo "$heading $text $heading";
+    echo "<$heading> $text </$heading>";
 }
 
 
